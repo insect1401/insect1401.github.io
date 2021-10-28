@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
 You can use the [editor on GitHub](https://github.com/insect1401/insect1401.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
